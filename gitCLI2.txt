@@ -4,3 +4,4 @@
 あああ
 new branchでの編集をしたよ
 branch_bからプルリクエスト
+branch_aからの変更をプルリク
