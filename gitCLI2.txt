@@ -2,4 +2,4 @@
 編集2
 編集3
 あああ
-new branchでの編集
+new branchでの編集をしたよ
